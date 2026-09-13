@@ -1,8 +1,8 @@
 //your JS code here. If required.
-let fname = document.querySelector("#fname");
-let lname = document.querySelector("#lname");
-let pnumber = document.querySelector("#pnumber");
-let email = document.querySelector("#email");
+let fname = document.querySelector("#FirstName");
+let lname = document.querySelector("#LastName");
+let pnumber = document.querySelector("#PhoneNumber");
+let email = document.querySelector("#EmailID");
 
 let btn = document.querySelector("#btn");
 
